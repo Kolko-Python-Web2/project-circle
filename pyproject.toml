@@ -1,0 +1,15 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Ciastelix", email = "tenlegitmati@gmail.com"},
+]
+dependencies = [
+    "fastapi>=0.103.2",
+    "sqlalchemy>=2.0.21",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
